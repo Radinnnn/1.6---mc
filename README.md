@@ -1,4 +1,4 @@
-# 1.6---mc
+# Hello-World!
 This respiratory is for getting to know GitHub 
 
 My name is Radin
